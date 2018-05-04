@@ -46,7 +46,7 @@ Your project will begin with a wireframe.  Once the wireframe is completed, you 
 - font color
 - font-size
 - change the font using font family
-- adjust the hieght
+- adjust the height
 - adjust the width
 - text-align if necessary
 - include borders
@@ -55,4 +55,11 @@ Your project will begin with a wireframe.  Once the wireframe is completed, you 
 
 ### JS Requirements
 
-- 
+- At least one function that affects an element on your webpage
+- using DOM, target all elements you will be adjusting
+  - change at least one image, text, and style using DOM
+  - add an Event Listener that will listen for an action of your choosing
+  - create a responsive button that does something when you press it
+- Create an alert on your page that lets your user know something!
+- include one object that you can put on your website
+- at least one of each data type is used on your website (can exclude null, and undefined)
